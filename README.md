@@ -1,22 +1,18 @@
-<h1>Hey, I'm Guile!</h1>
-<p><em>~a designer on his way to the Dev-World~</em></p>
+# Hey, eu sou o Guile 😉
 
-<p>🚀 I'm interested in Front-end career and opportunities to growth, for now.</p>
+### Frontend developer em formação!
 
-<p>~Currently:</p>
-<ul>
-<li>Immersing myself in the world of technology;</li>
-<li>Developing my HTML/CSS skills with practice (coming soon here);</li>
-<li>Starting to learn about Programming logic and JavaScript.</li>
-</ul>
+- 🏠 Brasileiro, residente em Curitiba, PR
+- 🖥️ Desenvolvedor em formação – *Análise e Desenvolvimento de Sistemas*
+- 🎨 Designer gráfico formado (2014 - 2017)
+- ⌛ 8 anos de experiência – *E-commerce, marketing educacional e comércio criativo*
 
-<p>✨ so excited to use it all together, it looks amazing!</p>
+### Aprendizado básico
 
-<p>~As a designer, I am skilled in:</p>
-<ul>
-<li>Production for marketing;</li>
-<li>Video and motion editing;</li>
-<li>Props in 3d modeling.</li>
-</ul>
+- ✅ HTML e CSS – *confira alguns projetos [aqui](https://www.frontendmentor.io/profile/guilepereira/solutions)*
+- ✅ Git e Lógica de Programação
+- ⌛ JavaScript – *formação CJRM, projetos em breve*
 
-<p>🤝 looking to collaborate</p>
+<a href="https://www.linkedin.com/in/guilevpereira/">
+  <img alt="Guile Pereira Linkedin" width="22px" src="./assets/linkedin.svg" />
+</a>
