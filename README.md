@@ -9,8 +9,8 @@
 
 ### Aprendizado básico
 
-- ✅ HTML e CSS – *confira alguns projetos [aqui](https://www.frontendmentor.io/profile/guilepereira/solutions){target="_blank"}*
+- ✅ HTML e CSS – *confira alguns projetos [aqui](https://www.frontendmentor.io/profile/guilepereira/solutions)*
 - ✅ Git e Lógica de Programação
 - ⌛ JavaScript – *formação CJRM, projetos em breve*
 
-> Vamos conversar? estou disponível no [LinkedIn](https://www.linkedin.com/in/guilevpereira){target="_blank"}
+> Vamos conversar? estou disponível no [LinkedIn](https://www.linkedin.com/in/guilevpereira)
