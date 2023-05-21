@@ -13,6 +13,4 @@
 - ✅ Git e Lógica de Programação
 - ⌛ JavaScript – *formação CJRM, projetos em breve*
 
-<a href="https://www.linkedin.com/in/guilevpereira/">
-  <img alt="Guile Pereira Linkedin" width="22px" src="./assets/linkedin.svg" />
-</a>
+> Vamos conversar? estou disponível no [LinkedIn](https://www.linkedin.com/in/guilevpereira)
