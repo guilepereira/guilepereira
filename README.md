@@ -5,7 +5,7 @@
 - 🏠 Brasileiro, residente em Curitiba, PR
 - 🖥️ Desenvolvedor em formação – *Análise e Desenvolvimento de Sistemas*
 - 🎓 Designer gráfico formado – *2014 - 2017*
-- ⌛ 8 anos de experiência – *E-commerce, marketing educacional e comércio criativo*
+- ⌛ 6 anos de experiência – *E-commerce, marketing educacional e comércio criativo*
 
 ### Aprendizado básico
 
