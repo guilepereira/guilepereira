@@ -7,7 +7,7 @@
 - 🎓 Designer gráfico formado – *2014 - 2017*
 - ⌛ 6 anos de experiência – *E-commerce, marketing educacional e comércio criativo*
 
-### Aprendizado básico
+### Tecnologias
 
 - ✅ HTML e CSS
 - ✅ Git e Lógica de Programação
