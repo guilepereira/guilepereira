@@ -11,7 +11,7 @@
 
 - ✅ HTML e CSS
 - ✅ Git e Lógica de Programação
-- ⌛ JavaScript – *formação CJRM, projetos em breve*
+- ⌛ JavaScript – *formação CJRM*
 
 ### Desafios
 - 🖥️ [Frontend Mentor](https://www.frontendmentor.io/profile/guilepereira/solutions)
