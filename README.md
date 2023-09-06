@@ -1,7 +1,5 @@
 # Hey, eu sou o Guile 😉
 
-### Frontend developer em formação!
-
 - 🏠 Brasileiro, residente em Curitiba, PR
 - 🖥️ Desenvolvedor em formação – *Análise e Desenvolvimento de Sistemas*
 - 🎓 Designer gráfico formado – *2014 - 2017*
